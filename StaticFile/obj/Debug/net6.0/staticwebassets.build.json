@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "huX+ovl3BhNuua3+A/cFpyR8f8svvp4YvkWZ8R3iuaU=",
+  "Source": "StaticFile",
+  "BasePath": "_content/StaticFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFile\\wwwroot",
+      "Source": "StaticFile",
+      "ContentRoot": "C:\\Users\\Rezzen\\Desktop\\StaticFile\\StaticFile\\wwwroot\\",
+      "BasePath": "_content/StaticFile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rezzen\\Desktop\\StaticFile\\StaticFile\\wwwroot\\home.html",
+      "SourceId": "StaticFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rezzen\\Desktop\\StaticFile\\StaticFile\\wwwroot\\",
+      "BasePath": "_content/StaticFile",
+      "RelativePath": "home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    }
+  ]
+}
